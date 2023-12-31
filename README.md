@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a forward-thinking individual passionate about blending philosophy and cutting-edge technology. With a Bachelor's degree in Philosophy from Christ University, Bengaluru, and ongoing studies in Data Science and Applications at IIT Madras, I bring a unique mix of philosophical inquiry and tech-savvy enthusiasm to the table.
+I'm passionate about blending philosophy with cutting-edge technology. I hold a Bachelor's degree in Philosophy from Christ University, Bengaluru, and I'm currently studying Data Science and Applications at IIT Madras. My unique mix of philosophical inquiry and tech enthusiasm drives my approach to problem-solving.
 
 ## Interests
 
