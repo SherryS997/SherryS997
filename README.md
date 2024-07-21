@@ -2,23 +2,25 @@
 
 ## About Me
 
-I'm passionate about blending philosophy with cutting-edge technology. I hold a Bachelor's degree in Philosophy from Christ University, Bengaluru, and I'm currently studying Data Science and Applications at IIT Madras. My unique mix of philosophical inquiry and tech enthusiasm drives my approach to problem-solving.
+I'm a Data Science student at IIT Madras with a unique background in Philosophy. This combination fuels my passion for exploring the intersection of ethics, language, and artificial intelligence. My journey from philosophy to data science has shaped my approach to problem-solving and my keen interest in NLP and Large Language Models.
 
-## Interests
+## Current Focus
 
-- 💻 I'm deeply interested in Machine Learning, AI, and Data Science.
-- 📚 Philosophy holds a special place in my heart, shaping my critical thinking and ethical reasoning.
+- 🎓 Pursuing a BS in Data Science and Applications at IIT Madras (Expected 2025)
+- 🗣️ Working on open-source text-to-speech models for Indian languages at AI4Bhārat
+- 🧠 Diving deep into the world of Large Language Models and NLP
+- 📊 Bridging the gap between ML theory and practice through research and content creation
 
-## Current Journey
+## Experience Highlights
 
-🎓 I'm currently pursuing Data Science at the Indian Institute of Technology Madras.
+- 🔬 Data Science Intern at AI4Bhārat, IIT Madras
+- 📚 Machine Learning Research Intern at IIT Madras
+- 👨‍🏫 Teaching Assistant for Machine Learning Techniques (CS2007) at IIT Madras
 
-## Experience
+## Projects I'm Proud Of
 
-- 🔍 As a Teaching Assistant for the "Machine Learning Techniques" course at IIT Madras, I curated course materials, mentored students, led engaging sessions, and created helpful tutorial content.
-- 🧠 Currently, I'm a Project Intern at IIT Madras, delving into ML Research. I'm crafting content that bridges the gap between ML theory and practice, creating high-quality ML notebooks that simplify complex data analysis.
+- 🐱 [Cat Image Classifier](https://github.com/SherryS997/Cat-Image-Classification-Neural-Network-using-NumPy-and-SciPy): Built a neural network from scratch using NumPy
+- ✍️ [Blog-Lite v2](https://github.com/SherryS997/Blog-Lite-v2): Award-winning blog platform using Vue3 and Flask
+- 📘 [Machine Learning Algorithms](https://github.com/SherryS997/Machine-Learning-Algorithms): Comprehensive resource on ML foundations, adopted by IIT Madras
 
-<!---
-SherryS997/SherryS997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to explore my repositories and reach out if you'd like to collaborate on projects involving ML, NLP, or the ethical implications of AI. Always eager to learn and contribute to meaningful discussions in the tech community!
