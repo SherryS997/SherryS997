@@ -20,7 +20,7 @@ I'm a Data Science student at IIT Madras with a unique background in Philosophy.
 ## Projects I'm Proud Of
 
 - 🐱 [Cat Image Classifier](https://github.com/SherryS997/Cat-Image-Classification-Neural-Network-using-NumPy-and-SciPy): Built a neural network from scratch using NumPy
-- ✍️ [Blog-Lite v2](https://github.com/SherryS997/Blog-Lite-v2): Award-winning blog platform using Vue3 and Flask
+- ✍️ [Blog-Lite v2](https://github.com/SherryS997/Blog-Lite-v2): Blog platform using Vue3 and Flask
 - 📘 [Machine Learning Algorithms](https://github.com/SherryS997/Machine-Learning-Algorithms): Comprehensive resource on ML foundations, adopted by IIT Madras
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on projects involving ML, NLP, or the ethical implications of AI. Always eager to learn and contribute to meaningful discussions in the tech community!
