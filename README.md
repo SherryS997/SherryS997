@@ -13,7 +13,7 @@ I'm currently a Data Science student at IIT Madras with a background in Philosop
 
 ## Experience Highlights
 
-- Data Science Intern at AI4Bharat, IIT Madras
+- Project Associate at AI4Bharat, IIT Madras
 - Research Intern in Machine Learning at IIT Madras
 - Teaching Assistant for the course *Machine Learning Techniques (CS2007)* at IIT Madras
 
